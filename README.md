@@ -1,5 +1,5 @@
 # SLT Data Usage Bookmarklet
-Simple bookmarket script for view data usage by package type
+Simple bookmarket script for view data usage by peak and off-peak 
 
 How to use
 -----------------
